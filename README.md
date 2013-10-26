@@ -20,6 +20,8 @@ group certain kinds of related directories (e.g. `Album (disc 1)`
 and `Album (disc 2)`) and apply the same ReplayGain value to both
 as one album.
 
+`albumgain` requires `mutagen`, which you can `pip install`.
+
 [1]: http://en.wikipedia.org/wiki/ReplayGain
 [2]: http://en.wikipedia.org/wiki/Sansa_Fuze
 
